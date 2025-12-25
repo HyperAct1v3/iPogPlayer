@@ -1,0 +1,12 @@
+NowPlayingScreen.class
+MediaEngine.class
+Library.class
+MenuSystem.class
+SpotmateDownloader.class
+ConsoleUI.class
+Main.class
+Search.class
+SpotifyScraper.class
+Playlist.class
+Track.class
+DataManager.class
